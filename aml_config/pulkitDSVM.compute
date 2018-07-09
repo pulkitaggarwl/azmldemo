@@ -1,0 +1,4 @@
+address: pulkitdsvm.southcentralus.cloudapp.azure.com:5022
+password: AzureMlSecret=pulkitDSVM#pulkit#8c62fc6aa75141f795bd2259f354f786
+type: remotedocker
+username: pulkit
