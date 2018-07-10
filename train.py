@@ -12,6 +12,8 @@ X = [[181, 80, 44], [177, 70, 43], [160, 60, 38], [154, 54, 37], [166, 65, 40], 
 
 Y = ['male', 'male', 'female', 'female', 'male', 'male', 'female', 'female', 'female', 'male', 'male']
 
+#Y = ['female', 'female', 'male', 'male', 'female', 'female', 'male', 'male', 'male', 'female', 'female']
+
 clf = SVC()
 clf = clf.fit(X, Y)
 
